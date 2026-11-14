@@ -1,6 +1,12 @@
 # burgnr-bot
 The source code of the Burg.nr bot, powered by the API.
 
+## Information
+Burg.nr is a free, no ads link shortener which has an API, so I used it to let people make shortened links from discord. 
+
+## API Docs
+It can be found at https://burg.nr/api
+
 ## Requirements
 - An VPS, Bot Hosting Server or a Code-Server
 - Python 3.10 or newer
